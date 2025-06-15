@@ -1,1 +1,1 @@
-# algos-for-ml-CAP4611
+# Algorithms for Machine Learning (CAP4611)
